@@ -4,7 +4,7 @@ Makes players invisible to others.
 
 # Installation
 
-[Smod2](https://github.com/Grover-c13/Smod2) is required.
+[Smod2](https://github.com/Grover-c13/Smod2) and [TargetedGhostmode](https://github.com/Cyanox62/TargetedGhostmode) are required.
 
 Drag and drop `PlayerGhostmode.dll` into your sm_plugins folder.
 
